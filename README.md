@@ -146,5 +146,4 @@ If you'd like to contribute, please fork the repo and submit a PR.
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
-**Devansh Kushwaha**  
-[GitHub](https://github.com/Devansh-Kushwaha)
+
